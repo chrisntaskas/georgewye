@@ -115,17 +115,17 @@ html {
 }
 
 .pimg1 {
-  background-image: url('/assets/images/1.jpg');
+  background-image: url('assets/images/1.jpg');
   min-height: 100%;
 }
 
 .pimg2 {
-  background-image: url('/assets/images/2.jpg');
+  background-image: url('assets/images/2.jpg');
   min-height: 400px;
 }
 
 .pimg3 {
-  background-image: url('/assets/images/3.jpg');
+  background-image: url('assets/images/3.jpg');
   min-height: 400px;
 }
 
@@ -135,7 +135,7 @@ html {
 }
 
 .pimg5 {
-  background-image: url('/assets/images/blur-brown-caffeine-1863625.jpg');
+  background-image: url('assets/images/blur-brown-caffeine-1863625.jpg');
   min-height: 400px;
 }
 
